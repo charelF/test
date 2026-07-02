@@ -7,3 +7,5 @@ Now made it a web app on the homescreen. Actually that didnt work well
 what a day # success
 
 #wow xd
+
+anc

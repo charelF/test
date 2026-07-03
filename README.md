@@ -20,8 +20,4 @@ this is insane
 
 absolute madness
 
-part 2
-
-we are actually live
-
-now lets  see if this works too
+just had to turn if off

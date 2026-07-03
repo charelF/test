@@ -6,7 +6,4 @@ Now made it a web app on the homescreen. Actually that didnt work well
 
 what a day # success
 
-test 1 2 3 4 5
-charel 123
-11
-abc1
+success

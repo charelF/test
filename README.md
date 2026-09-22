@@ -3,6 +3,7 @@
 ### the best one
 #### i think it is
 ##### or is it
+test via deployed version
 _CodeMirror 6 markdown editor with Obsidian-style inline live preview — WYSIWYG tables, syntax-highlighted code, interactive checkboxes, and cursor-scoped link unfold. Showing a 1 page sample._
 
 ## Try it

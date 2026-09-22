@@ -2,6 +2,7 @@ wow editing this from kale # dangerous # crazy
 
 Now sitting on the toilet on my phone easy acces #insane
 
+# hey 123
 Now made it a web app on the homescreen. Actually that didnt work well
 # title
 this is quite coo

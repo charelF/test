@@ -4,8 +4,6 @@
 hih hiiii 
 #### i think it is
 ##### or is it
-test via deployed version
-_CodeMirror 6 mi also make a change editor with Obsidian-style inline live preview — WYSIWYG tables, syntax-highlighted code, interactive checkboxes, and cursor-scoped link unfold. Showing a 1 page sample._
 
 ## Try it
 
@@ -20,7 +18,7 @@ export function chunkMarkdown(input: string): string[] {
   const blocks: string[] = [];
   let cursor = 0;
   while (cursor < input.length) {
-    const nextBreak = input.indexOf('\n\n', cursor);
+    const nextBreak = ii write code test , cursor);
     if (nextBreak === -1) {
       blocks.push(input.slice(cursor));
       break;
